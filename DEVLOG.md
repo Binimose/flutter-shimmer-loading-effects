@@ -47,3 +47,4 @@
 - **[2026-08-14 13:10:25]** (45) fix(controller): dispose animation controllers to prevent memory leak
 - **[2026-08-14 16:27:48]** (46) perf(gpu): use CustomPainter for 60fps shimmer transitions
 - **[2026-08-15 11:00:15]** (47) test(golden): add snapshot tests for shimmer gradient sweep
+- **[2026-08-15 14:17:38]** (48) style(theme): add dark mode color presets for skeleton boxes
