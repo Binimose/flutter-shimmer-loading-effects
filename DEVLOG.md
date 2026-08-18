@@ -58,3 +58,4 @@
 - **[2026-08-17 17:48:27]** (56) docs(readme): add animated GIF preview of skeleton loading
 - **[2026-08-18 10:21:54]** (57) feat(shimmer): create shimmer animation shader with custom gradient
 - **[2026-08-18 13:38:17]** (58) ui(skeletons): add skeleton placeholders for cards and avatars
+- **[2026-08-18 16:55:40]** (59) fix(controller): dispose animation controllers to prevent memory leak
