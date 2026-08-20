@@ -63,3 +63,4 @@
 - **[2026-08-19 11:28:07]** (61) test(golden): add snapshot tests for shimmer gradient sweep
 - **[2026-08-19 14:45:30]** (62) style(theme): add dark mode color presets for skeleton boxes
 - **[2026-08-19 17:02:53]** (63) docs(readme): add animated GIF preview of skeleton loading
+- **[2026-08-20 10:35:20]** (64) feat(shimmer): create shimmer animation shader with custom gradient
