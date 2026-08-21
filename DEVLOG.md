@@ -69,3 +69,4 @@
 - **[2026-08-21 11:42:33]** (67) perf(gpu): use CustomPainter for 60fps shimmer transitions
 - **[2026-08-21 14:59:56]** (68) test(golden): add snapshot tests for shimmer gradient sweep
 - **[2026-08-21 17:16:19]** (69) style(theme): add dark mode color presets for skeleton boxes
+- **[2026-08-21 20:33:42]** (70) docs(readme): add animated GIF preview of skeleton loading
