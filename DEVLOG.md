@@ -85,3 +85,4 @@
 - **[2026-08-25 17:44:11]** (83) style(theme): add dark mode color presets for skeleton boxes
 - **[2026-08-26 10:17:38]** (84) docs(readme): add animated GIF preview of skeleton loading
 - **[2026-08-26 13:34:01]** (85) feat(shimmer): create shimmer animation shader with custom gradient
+- **[2026-08-26 16:51:24]** (86) ui(skeletons): add skeleton placeholders for cards and avatars
