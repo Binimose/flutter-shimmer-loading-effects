@@ -88,3 +88,4 @@
 - **[2026-08-26 16:51:24]** (86) ui(skeletons): add skeleton placeholders for cards and avatars
 - **[2026-08-27 11:24:51]** (87) fix(controller): dispose animation controllers to prevent memory leak
 - **[2026-08-27 14:41:14]** (88) perf(gpu): use CustomPainter for 60fps shimmer transitions
+- **[2026-08-27 17:58:37]** (89) test(golden): add snapshot tests for shimmer gradient sweep
