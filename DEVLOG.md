@@ -101,3 +101,4 @@
 - **[2026-08-30 16:19:16]** (99) feat(shimmer): create shimmer animation shader with custom gradient
 - **[2026-08-30 19:36:39]** (100) ui(skeletons): add skeleton placeholders for cards and avatars
 - **[2026-08-31 11:52:43]** (101) fix(controller): dispose animation controllers to prevent memory leak
+- **[2026-08-31 14:09:06]** (102) perf(gpu): use CustomPainter for 60fps shimmer transitions
